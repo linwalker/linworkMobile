@@ -1,0 +1,2 @@
+2018-03-07 16:10:45,916 INFO 34692 [Timer] /Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-08 00:00:00.000
+2018-03-07 16:10:45,918 INFO 34692 [Timer] /Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-08 00:00:01.000

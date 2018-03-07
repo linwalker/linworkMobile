@@ -1,0 +1,69 @@
+2018-03-06 16:10:54,590 ERROR 27990 nodejs.TypeError: Cannot read property 'Symbol(webpackServer)' of undefined
+    at closeServer (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/beidou-webpack/lib/utils/index.js:164:12)
+    at Object.restartServer (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/beidou-webpack/lib/utils/index.js:174:3)
+    at FSWatcher.watcher (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/beidou-webpack/agent.js:31:16)
+    at emitOne (events.js:116:13)
+    at FSWatcher.emit (events.js:211:7)
+    at FSWatcher.<anonymous> (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/chokidar/index.js:199:15)
+    at FSWatcher._emit (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/chokidar/index.js:241:5)
+    at FSWatcher.<anonymous> (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/chokidar/lib/fsevents-handler.js:206:14)
+    at addOrChange (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/chokidar/lib/fsevents-handler.js:212:7)
+    at FSWatcher.<anonymous> (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/chokidar/lib/fsevents-handler.js:238:16)
+
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+
+2018-03-07 08:49:53,620 ERROR 27990 nodejs.ClusterClientNoResponseError: client no response in 40841948ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+
+2018-03-07 11:50:09,263 ERROR 27990 nodejs.ClusterClientNoResponseError: client no response in 254583ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+
+2018-03-07 11:59:52,856 ERROR 27990 nodejs.ClusterClientNoResponseError: client no response in 200771ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+
+2018-03-07 12:19:40,128 ERROR 27990 nodejs.ClusterClientNoResponseError: client no response in 947225ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+
+2018-03-07 13:59:23,236 ERROR 27990 nodejs.ClusterClientNoResponseError: client no response in 2661264ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+
+2018-03-07 14:03:55,187 ERROR 27990 nodejs.ClusterClientNoResponseError: client no response in 151908ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+

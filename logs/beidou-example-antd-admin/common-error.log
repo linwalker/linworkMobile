@@ -1,0 +1,9 @@
+2018-03-07 15:32:42,913 ERROR 27990 nodejs.ClusterClientNoResponseError: client no response in 86943ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/cluster-client/lib/leader.js:73:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 27990
+hostname: linyuhuadeMacBook-Air.local
+

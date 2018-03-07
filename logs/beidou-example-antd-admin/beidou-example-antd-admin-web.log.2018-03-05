@@ -1,0 +1,123 @@
+2018-02-24 11:45:07,839 INFO 82725 [beidou:plugin:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-24 11:45:09,030 INFO 82725 [Beidou App] App Worker started, pid is 82725
+2018-02-24 14:42:52,515 INFO 87804 [Beidou App] App Worker started, pid is 87804
+2018-02-24 14:53:34,593 INFO 88081 [beidou:plugin:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-24 14:53:35,077 INFO 88081 [Beidou App] App Worker started, pid is 88081
+2018-02-24 15:01:04,898 INFO 88205 [beidou:plugin:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-24 15:01:05,359 INFO 88205 [Beidou App] App Worker started, pid is 88205
+2018-02-24 15:13:26,396 INFO 88637 [Beidou App] App Worker started, pid is 88637
+2018-02-24 15:26:17,313 INFO 88836 [Beidou App] App Worker started, pid is 88836
+2018-02-28 10:25:55,601 INFO 1774 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 10:25:55,994 INFO 1774 [Beidou App] App Worker started, pid is 1774
+2018-02-28 10:38:51,946 INFO 2475 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 10:38:52,480 INFO 2475 [Beidou App] App Worker started, pid is 2475
+2018-02-28 14:33:55,358 INFO 4316 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 14:33:55,783 INFO 4316 [Beidou App] App Worker started, pid is 4316
+2018-02-28 14:44:42,859 INFO 4469 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 14:44:43,288 INFO 4469 [Beidou App] App Worker started, pid is 4469
+2018-02-28 14:59:59,450 INFO 4665 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 14:59:59,832 INFO 4665 [Beidou App] App Worker started, pid is 4665
+2018-02-28 15:01:15,931 INFO 4721 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 15:01:16,409 INFO 4721 [Beidou App] App Worker started, pid is 4721
+2018-02-28 15:02:11,522 INFO 4785 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 15:02:11,959 INFO 4785 [Beidou App] App Worker started, pid is 4785
+2018-02-28 15:06:23,228 INFO 4865 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 15:06:23,645 INFO 4865 [Beidou App] App Worker started, pid is 4865
+2018-02-28 15:10:38,922 INFO 4981 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 15:10:39,430 INFO 4981 [Beidou App] App Worker started, pid is 4981
+2018-02-28 16:17:41,019 INFO 5641 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 16:17:41,401 INFO 5641 [Beidou App] App Worker started, pid is 5641
+2018-02-28 16:27:06,605 INFO 5785 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 16:27:07,208 INFO 5785 [Beidou App] App Worker started, pid is 5785
+2018-02-28 16:28:11,652 INFO 5817 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 16:28:11,996 INFO 5817 [Beidou App] App Worker started, pid is 5817
+2018-02-28 16:32:32,247 INFO 5984 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 16:32:32,568 INFO 5984 [Beidou App] App Worker started, pid is 5984
+2018-02-28 16:37:58,024 INFO 6055 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 16:37:58,737 INFO 6055 [Beidou App] App Worker started, pid is 6055
+2018-02-28 17:11:36,607 INFO 6775 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:11:37,077 INFO 6775 [Beidou App] App Worker started, pid is 6775
+2018-02-28 17:12:44,410 INFO 6804 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:12:44,677 INFO 6804 [Beidou App] App Worker started, pid is 6804
+2018-02-28 17:13:10,949 INFO 6828 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:13:11,425 INFO 6828 [Beidou App] App Worker started, pid is 6828
+2018-02-28 17:13:42,566 INFO 6867 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:13:43,266 INFO 6867 [Beidou App] App Worker started, pid is 6867
+2018-02-28 17:15:00,719 INFO 6895 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:15:01,273 INFO 6895 [Beidou App] App Worker started, pid is 6895
+2018-02-28 17:16:15,322 INFO 6957 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:16:15,733 INFO 6957 [Beidou App] App Worker started, pid is 6957
+2018-02-28 17:19:24,046 INFO 7041 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:19:24,447 INFO 7041 [Beidou App] App Worker started, pid is 7041
+2018-02-28 17:20:59,732 INFO 7082 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:21:00,200 INFO 7082 [Beidou App] App Worker started, pid is 7082
+2018-02-28 17:21:24,602 INFO 7127 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:21:24,912 INFO 7127 [Beidou App] App Worker started, pid is 7127
+2018-02-28 17:22:00,625 INFO 7148 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:22:01,094 INFO 7148 [Beidou App] App Worker started, pid is 7148
+2018-02-28 17:37:16,149 INFO 7609 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:37:16,674 INFO 7609 [Beidou App] App Worker started, pid is 7609
+2018-02-28 17:38:04,602 INFO 7653 [Beidou App] App Worker started, pid is 7653
+2018-02-28 17:42:47,751 INFO 7758 [Beidou App] App Worker started, pid is 7758
+2018-02-28 17:43:50,989 INFO 7798 [Beidou App] App Worker started, pid is 7798
+2018-02-28 17:45:36,789 INFO 7868 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:45:37,324 INFO 7868 [Beidou App] App Worker started, pid is 7868
+2018-02-28 17:46:42,712 INFO 7893 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:46:43,200 INFO 7893 [Beidou App] App Worker started, pid is 7893
+2018-02-28 17:49:05,665 INFO 7934 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:49:06,095 INFO 7934 [Beidou App] App Worker started, pid is 7934
+2018-02-28 17:51:32,163 INFO 7990 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:51:32,549 INFO 7990 [Beidou App] App Worker started, pid is 7990
+2018-02-28 17:52:03,859 INFO 8038 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 17:52:04,266 INFO 8038 [Beidou App] App Worker started, pid is 8038
+2018-02-28 18:04:03,012 INFO 8321 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 18:04:03,591 INFO 8321 [Beidou App] App Worker started, pid is 8321
+2018-02-28 18:05:14,351 INFO 8356 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 18:05:14,806 INFO 8356 [Beidou App] App Worker started, pid is 8356
+2018-02-28 18:05:53,323 INFO 8377 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 18:05:53,748 INFO 8377 [Beidou App] App Worker started, pid is 8377
+2018-02-28 18:06:31,217 INFO 8425 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-02-28 18:06:31,611 INFO 8425 [Beidou App] App Worker started, pid is 8425
+2018-03-02 09:53:06,062 INFO 10613 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 09:53:06,507 INFO 10613 [Beidou App] App Worker started, pid is 10613
+2018-03-02 10:09:56,147 INFO 10776 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:09:56,545 INFO 10776 [Beidou App] App Worker started, pid is 10776
+2018-03-02 10:10:42,003 INFO 10828 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:10:42,341 INFO 10828 [Beidou App] App Worker started, pid is 10828
+2018-03-02 10:19:25,844 INFO 10920 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:19:26,212 INFO 10920 [Beidou App] App Worker started, pid is 10920
+2018-03-02 10:19:53,752 INFO 10979 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:19:54,121 INFO 10979 [Beidou App] App Worker started, pid is 10979
+2018-03-02 10:27:15,468 INFO 11094 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:27:15,704 INFO 11094 [Beidou App] App Worker started, pid is 11094
+2018-03-02 10:29:35,799 INFO 11153 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:29:36,106 INFO 11153 [Beidou App] App Worker started, pid is 11153
+2018-03-02 10:44:10,095 INFO 11310 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:44:10,509 INFO 11310 [Beidou App] App Worker started, pid is 11310
+2018-03-02 10:49:38,738 INFO 11372 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:49:39,151 INFO 11372 [Beidou App] App Worker started, pid is 11372
+2018-03-02 10:59:16,706 INFO 11479 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:59:17,063 INFO 11479 [Beidou App] App Worker started, pid is 11479
+2018-03-02 10:59:34,687 INFO 11520 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 10:59:35,042 INFO 11520 [Beidou App] App Worker started, pid is 11520
+2018-03-02 11:01:24,482 INFO 11555 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 11:01:24,843 INFO 11555 [Beidou App] App Worker started, pid is 11555
+2018-03-02 11:04:36,058 INFO 11780 [Beidou App] App Worker started, pid is 11780
+2018-03-02 11:05:27,610 INFO 11819 [Beidou App] App Worker started, pid is 11819
+2018-03-02 11:06:32,817 INFO 11869 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 11:06:33,507 INFO 11869 [Beidou App] App Worker started, pid is 11869
+2018-03-02 11:18:58,145 INFO 12071 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 11:18:58,616 INFO 12071 [Beidou App] App Worker started, pid is 12071
+2018-03-02 13:57:26,623 INFO 13412 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 13:57:27,164 INFO 13412 [Beidou App] App Worker started, pid is 13412
+2018-03-02 14:10:32,984 INFO 13612 [Beidou App] App Worker started, pid is 13612
+2018-03-02 14:12:00,085 INFO 13660 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 14:12:00,596 INFO 13660 [Beidou App] App Worker started, pid is 13660
+2018-03-02 14:22:59,742 INFO 13878 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 14:23:00,234 INFO 13878 [Beidou App] App Worker started, pid is 13878
+2018-03-02 14:23:58,448 INFO 13912 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-02 14:23:58,960 INFO 13912 [Beidou App] App Worker started, pid is 13912
+2018-03-05 10:48:42,407 INFO 18017 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-05 10:48:42,821 INFO 18017 [Beidou App] App Worker started, pid is 18017
+2018-03-05 15:22:15,959 INFO 21158 [beidou:isomorphic] isomorphic.alias detected: { client: '/Users/linyuhua/workcode/beidou/examples/antd-admin/client' }
+2018-03-05 15:22:16,408 INFO 21158 [Beidou App] App Worker started, pid is 21158

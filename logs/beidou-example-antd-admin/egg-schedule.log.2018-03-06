@@ -1,0 +1,12 @@
+2018-03-06 15:32:49,976 INFO 27990 [Timer] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-07 00:00:00.000
+2018-03-06 15:32:49,977 INFO 27990 [Timer] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-07 00:00:01.000
+2018-03-07 15:28:33,661 INFO 27990 [1520407713660151828588951422] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/clean_log.js triggered, send random by agent
+2018-03-07 15:28:33,674 INFO 27990 [Timer] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-08 00:00:00.000
+2018-03-07 15:28:33,668 INFO 28001 [1520407713660151828588951422] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/clean_log.js task received by app
+2018-03-07 15:28:33,672 INFO 28001 [1520407713660151828588951422] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2018-03-07 15:28:33,690 INFO 28001 [1520407713660151828588951422] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 14ms
+2018-03-07 15:28:34,655 INFO 28001 [1520407714654151829582847277] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js task received by app
+2018-03-07 15:28:34,655 INFO 28001 [1520407714654151829582847277] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2018-03-07 15:28:34,662 INFO 28001 [1520407714654151829582847277] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 7ms
+2018-03-07 15:28:34,654 INFO 27990 [1520407714654151829582847277] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js triggered, send random by agent
+2018-03-07 15:28:34,658 INFO 27990 [Timer] /Users/linyuhua/workcode/beidou/examples/antd-admin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-08 00:00:01.000

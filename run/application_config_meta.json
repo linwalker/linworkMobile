@@ -1,0 +1,303 @@
+{
+  "keys": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+  "webpack": {
+    "config": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "output": {
+      "publicPath": "/Users/linyuhua/workcode/linworkMobile/config/config.local.js",
+      "path": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "filename": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "chunkFilename": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js"
+    },
+    "resolve": {
+      "extensions": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js"
+    },
+    "devServer": {
+      "contentBase": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "port": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "noInfo": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "quiet": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "clientLogLevel": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "lazy": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "watchOptions": {
+        "aggregateTimeout": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js"
+      },
+      "headers": {
+        "X-Custom-Header": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js"
+      },
+      "stats": {
+        "colors": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+        "chunks": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js"
+      },
+      "publicPath": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js",
+      "hot": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-webpack@1.0.0-alpha.5@beidou-webpack/config/config.default.js"
+    }
+  },
+  "router": {
+    "root": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "entry": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "urlPrefix": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-router@1.0.0-alpha.5@beidou-router/config/config.default.js",
+    "exclude": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-router@1.0.0-alpha.5@beidou-router/config/config.default.js",
+    "mapping": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-router@1.0.0-alpha.5@beidou-router/config/config.default.js",
+    "ext": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-router@1.0.0-alpha.5@beidou-router/config/config.default.js"
+  },
+  "isomorphic": {
+    "polyfill": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "universal": {
+      "assets": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js"
+    },
+    "babel": {
+      "presets": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-isomorphic@1.0.0-alpha.5@beidou-isomorphic/config/config.default.js",
+      "babelrc": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-isomorphic@1.0.0-alpha.5@beidou-isomorphic/config/config.default.js",
+      "extensions": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-isomorphic@1.0.0-alpha.5@beidou-isomorphic/config/config.default.js",
+      "cache": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-isomorphic@1.0.0-alpha.5@beidou-isomorphic/config/config.default.js"
+    },
+    "alias": {
+      "client": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-isomorphic@1.0.0-alpha.5@beidou-isomorphic/config/config.default.js"
+    }
+  },
+  "react": {
+    "static": "/Users/linyuhua/workcode/linworkMobile/config/config.local.js",
+    "cache": "/Users/linyuhua/workcode/linworkMobile/config/config.local.js",
+    "beautify": "/Users/linyuhua/workcode/linworkMobile/config/config.local.js",
+    "assetPath": "/Users/linyuhua/workcode/linworkMobile/config/config.local.js",
+    "middlewares": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-view-react@1.0.0-alpha.5@beidou-view-react/config/config.default.js",
+    "doctype": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-view-react@1.0.0-alpha.5@beidou-view-react/config/config.default.js",
+    "assetHost": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-view-react@1.0.0-alpha.5@beidou-view-react/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js"
+  },
+  "session": {
+    "key": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "maxAge": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "httpOnly": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "encrypt": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js"
+  },
+  "static": {
+    "dir": "/Users/linyuhua/workcode/linworkMobile/config/config.default.js",
+    "prefix": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "preload": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "buffer": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-static@2.1.0@egg-static/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "files": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "fastReady": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js",
+      "file": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-logrotator@3.0.2@egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-view-react@1.0.0-alpha.5@beidou-view-react/config/config.default.js",
+    "cache": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-view-react@1.0.0-alpha.5@beidou-view-react/config/config.default.js",
+    "defaultViewEngine": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-view-react@1.0.0-alpha.5@beidou-view-react/config/config.default.js",
+    "mapping": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+  },
+  "userrole": {
+    "failureHandler": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg-userrole@1.1.2@egg-userrole/config/config.default.js"
+  },
+  "env": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-core@1.0.0-alpha.5@beidou-core/config/config.default.js",
+  "name": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "proxy": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "protocolHeaders": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "ipHeaders": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "hostHeaders": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "version": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "description": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "scripts": {
+      "build": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "dev": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "lint": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    },
+    "author": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "dependencies": {
+      "antd": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "antd-mobile": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "axios": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "babel-preset-beidou-client": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "beidou-bin": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "beidou-core": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "classnames": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "color": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "diskdb": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "echarts": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "echarts-for-react": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "echarts-gl": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "echarts-liquidfill": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "egg-userrole": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "egg-validate": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "js-cookie": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "lodash": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "mockjs": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "path-to-regexp": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "prop-types": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "rc-tween-one": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "react": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "react-countup": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "react-dom": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "react-highcharts": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "react-redux": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "react-router": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "react-router-dom": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "recharts": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "redux": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "redux-actions": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "redux-saga": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "reqwest": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autoprefixer": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "babel-eslint": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "css-loader": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "eslint": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "eslint-config-beidou": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "eslint-plugin-import": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "eslint-plugin-react": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "extract-text-webpack-plugin": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "globby": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "husky": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "less": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "less-loader": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "style-loader": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    },
+    "license": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "HOME": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "rundir": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-core@1.0.0-alpha.5@beidou-core/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "notFound": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "sitefile": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "middlewares": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "httpClient": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "encoding": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "formLimit": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "jsonLimit": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "strict": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "depth": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "parameterLimit": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "encoding": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "env": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "level": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "consoleLevel": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "outputJSON": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "buffer": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "appLogName": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "coreLogName": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "agentLogName": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "errorLogName": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "maxSockets": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "maxSockets": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+    "logging": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-core@1.0.0-alpha.5@beidou-core/config/config.default.js",
+  "workerStartTimeout": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "port": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js",
+      "hostname": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/linyuhua/workcode/linworkMobile/node_modules/_egg@2.4.1@egg/config/config.default.js"
+  },
+  "client": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-core@1.0.0-alpha.5@beidou-core/config/config.default.js",
+  "core": {
+    "name": "/Users/linyuhua/workcode/linworkMobile/node_modules/_beidou-core@1.0.0-alpha.5@beidou-core/config/config.default.js"
+  }
+}
